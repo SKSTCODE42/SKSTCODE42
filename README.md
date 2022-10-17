@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SHAIKH TABREZ.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning CSS .
 - 💞️ I’m looking to collaborate on new Projects.
 - 📫 You can reach me on shaikhtabrez5757@gmail.com
 
