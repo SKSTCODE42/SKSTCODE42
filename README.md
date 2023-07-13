@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m SHAIKH TABREZ.<br>👀 I’m interested in Web development.<br>🌱 I’m currently learning React .<br>💞️ I’m looking to collaborate on new Projects.<br>📫 You can reach me on shaikhtabrez5757@gmail.com
+👋 Hi, I’m SHAIKH TABREZ.<br>👀 I’m interested in Cloud Computing.<br>🌱 I’m currently learning AWS .<br>💞️ I’m looking to collaborate on new Projects.<br>📫 You can reach me on shaikhtabrez5757@gmail.com
 
 
 ## 🌐 Socials:
